@@ -1,0 +1,12 @@
+# 忽略所有文件
+*
+
+# 保留以下文件类型
+!*.java
+!*.m
+!huffman_performance_simple.png
+!huffman_analysis_report.txt
+!huffman_performance_results.txt
+
+# 保留.gitignore本身
+!.gitignore

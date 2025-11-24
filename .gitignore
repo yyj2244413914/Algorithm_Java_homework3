@@ -1,0 +1,18 @@
+# 根目录 .gitignore
+# 各子文件夹有自己的 .gitignore 规则
+
+# IDE文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编译输出
+*.class
+

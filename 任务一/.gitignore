@@ -1,0 +1,14 @@
+# 编译输出
+*.class
+
+# IDE文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
